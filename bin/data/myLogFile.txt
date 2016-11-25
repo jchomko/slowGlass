@@ -1,0 +1,6643 @@
+
+
+--------------------------------------- 2016-11-15-12-33-20-214
+
+
+--------------------------------------- 2016-11-15-12-34-04-459
+
+
+--------------------------------------- 2016-11-15-12-35-25-877
+[notice ] playing : /home/jonathan/recordings/1479213069.mkv
+
+[notice ] time offset : 16
+
+[notice ] deleting 
+
+
+
+--------------------------------------- 2016-11-15-12-37-16-169
+[notice ] playing : /home/jonathan/recordings/1479213189.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-12-37-16-344
+[notice ] deleting 
+
+
+
+--------------------------------------- 2016-11-15-12-37-23-441
+[notice ] playing : /home/jonathan/recordings/1479213189.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-12-37-23-616
+[notice ] deleting 
+
+[notice ] playing : /home/jonathan/recordings/1479213209.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-12-37-43-752
+[notice ] deleting /home/jonathan/recordings/1479213189.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213229.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-12-38-03-849
+[notice ] deleting /home/jonathan/recordings/1479213209.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213249.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-12-38-23-956
+[notice ] deleting /home/jonathan/recordings/1479213229.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213269.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-12-38-44-052
+[notice ] deleting /home/jonathan/recordings/1479213249.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213289.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-12-39-04-155
+[notice ] deleting /home/jonathan/recordings/1479213269.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213309.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-12-39-24-248
+[notice ] deleting /home/jonathan/recordings/1479213289.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213329.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-12-39-44-337
+[notice ] deleting /home/jonathan/recordings/1479213309.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213349.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-12-40-04-442
+[notice ] deleting /home/jonathan/recordings/1479213329.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213369.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-12-40-24-540
+[notice ] deleting /home/jonathan/recordings/1479213349.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213389.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-12-40-44-642
+[notice ] deleting /home/jonathan/recordings/1479213369.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213409.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-12-41-04-743
+[notice ] deleting /home/jonathan/recordings/1479213389.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213429.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-12-41-24-834
+[notice ] deleting /home/jonathan/recordings/1479213409.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213449.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-12-41-44-939
+[notice ] deleting /home/jonathan/recordings/1479213429.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213469.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-12-42-05-038
+[notice ] deleting /home/jonathan/recordings/1479213449.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213489.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-12-42-25-141
+[notice ] deleting /home/jonathan/recordings/1479213469.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213509.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-12-42-45-243
+[notice ] deleting /home/jonathan/recordings/1479213489.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213529.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-12-43-05-336
+[notice ] deleting /home/jonathan/recordings/1479213509.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213549.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-12-43-25-437
+[notice ] deleting /home/jonathan/recordings/1479213529.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213569.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-12-43-45-522
+[notice ] deleting /home/jonathan/recordings/1479213549.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213589.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-12-44-05-618
+[notice ] deleting /home/jonathan/recordings/1479213569.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213609.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-12-44-25-720
+[notice ] deleting /home/jonathan/recordings/1479213589.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213629.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-12-44-45-827
+[notice ] deleting /home/jonathan/recordings/1479213609.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213649.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-12-45-05-921
+[notice ] deleting /home/jonathan/recordings/1479213629.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213669.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-12-45-26-019
+[notice ] deleting /home/jonathan/recordings/1479213649.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213689.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-12-45-46-129
+[notice ] deleting /home/jonathan/recordings/1479213669.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213709.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-12-46-06-220
+[notice ] deleting /home/jonathan/recordings/1479213689.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213729.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-12-46-26-311
+[notice ] deleting /home/jonathan/recordings/1479213709.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213749.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-12-46-46-408
+[notice ] deleting /home/jonathan/recordings/1479213729.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213769.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-12-47-06-502
+[notice ] deleting /home/jonathan/recordings/1479213749.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213789.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-12-47-26-612
+[notice ] deleting /home/jonathan/recordings/1479213769.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213809.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-12-47-46-697
+[notice ] deleting /home/jonathan/recordings/1479213789.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213829.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-12-48-06-804
+[notice ] deleting /home/jonathan/recordings/1479213809.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213849.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-12-48-26-900
+[notice ] deleting /home/jonathan/recordings/1479213829.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213869.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-12-48-47-008
+[notice ] deleting /home/jonathan/recordings/1479213849.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213889.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-12-49-07-108
+[notice ] deleting /home/jonathan/recordings/1479213869.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213909.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-12-49-27-205
+[notice ] deleting /home/jonathan/recordings/1479213889.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213929.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-12-49-47-304
+[notice ] deleting /home/jonathan/recordings/1479213909.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213949.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-12-50-07-407
+[notice ] deleting /home/jonathan/recordings/1479213929.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213969.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-12-50-27-503
+[notice ] deleting /home/jonathan/recordings/1479213949.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479213989.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-12-50-47-598
+[notice ] deleting /home/jonathan/recordings/1479213969.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214009.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-12-51-07-684
+[notice ] deleting /home/jonathan/recordings/1479213989.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214029.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-12-51-27-790
+[notice ] deleting /home/jonathan/recordings/1479214009.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214049.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-12-51-47-884
+[notice ] deleting /home/jonathan/recordings/1479214029.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214069.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-12-52-07-985
+[notice ] deleting /home/jonathan/recordings/1479214049.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214089.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-12-52-28-089
+[notice ] deleting /home/jonathan/recordings/1479214069.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214109.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-12-52-48-183
+[notice ] deleting /home/jonathan/recordings/1479214089.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214129.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-12-53-08-283
+[notice ] deleting /home/jonathan/recordings/1479214109.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214149.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-12-53-28-387
+[notice ] deleting /home/jonathan/recordings/1479214129.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214169.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-12-53-48-485
+[notice ] deleting /home/jonathan/recordings/1479214149.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214189.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-12-54-08-580
+[notice ] deleting /home/jonathan/recordings/1479214169.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214209.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-12-54-28-683
+[notice ] deleting /home/jonathan/recordings/1479214189.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214229.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-12-54-48-775
+[notice ] deleting /home/jonathan/recordings/1479214209.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214249.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-12-55-08-878
+[notice ] deleting /home/jonathan/recordings/1479214229.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214269.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-12-55-28-979
+[notice ] deleting /home/jonathan/recordings/1479214249.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214289.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-12-55-49-078
+[notice ] deleting /home/jonathan/recordings/1479214269.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214309.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-12-56-09-184
+[notice ] deleting /home/jonathan/recordings/1479214289.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214329.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-12-56-29-284
+[notice ] deleting /home/jonathan/recordings/1479214309.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214349.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-12-56-49-381
+[notice ] deleting /home/jonathan/recordings/1479214329.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214369.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-12-57-09-476
+[notice ] deleting /home/jonathan/recordings/1479214349.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214389.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-12-57-29-589
+[notice ] deleting /home/jonathan/recordings/1479214369.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214409.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-12-57-49-692
+[notice ] deleting /home/jonathan/recordings/1479214389.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214429.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-12-58-09-791
+[notice ] deleting /home/jonathan/recordings/1479214409.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214449.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-12-58-29-897
+[notice ] deleting /home/jonathan/recordings/1479214429.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214469.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-12-58-49-987
+[notice ] deleting /home/jonathan/recordings/1479214449.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214509.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-12-59-10-088
+[notice ] deleting /home/jonathan/recordings/1479214469.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214529.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-12-59-30-183
+[notice ] deleting /home/jonathan/recordings/1479214509.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214549.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-12-59-50-282
+[notice ] deleting /home/jonathan/recordings/1479214529.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214569.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-13-00-10-381
+[notice ] deleting /home/jonathan/recordings/1479214549.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214589.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-13-00-30-476
+[notice ] deleting /home/jonathan/recordings/1479214569.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214609.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-13-00-50-584
+[notice ] deleting /home/jonathan/recordings/1479214589.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214629.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-13-01-10-680
+[notice ] deleting /home/jonathan/recordings/1479214609.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214649.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-13-01-30-778
+[notice ] deleting /home/jonathan/recordings/1479214629.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214669.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-13-01-50-874
+[notice ] deleting /home/jonathan/recordings/1479214649.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214689.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-13-02-10-977
+[notice ] deleting /home/jonathan/recordings/1479214669.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214709.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-13-02-31-072
+[notice ] deleting /home/jonathan/recordings/1479214689.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214729.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-13-02-51-174
+[notice ] deleting /home/jonathan/recordings/1479214709.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214749.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-13-03-11-281
+[notice ] deleting /home/jonathan/recordings/1479214729.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214769.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-13-03-31-386
+[notice ] deleting /home/jonathan/recordings/1479214749.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214789.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-13-03-51-500
+[notice ] deleting /home/jonathan/recordings/1479214769.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214809.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-13-04-11-607
+[notice ] deleting /home/jonathan/recordings/1479214789.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214829.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-13-04-31-714
+[notice ] deleting /home/jonathan/recordings/1479214809.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214849.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-13-04-51-838
+[notice ] deleting /home/jonathan/recordings/1479214829.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214869.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-13-05-11-950
+[notice ] deleting /home/jonathan/recordings/1479214849.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214889.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-13-05-32-042
+[notice ] deleting /home/jonathan/recordings/1479214869.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214909.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-13-05-52-147
+[notice ] deleting /home/jonathan/recordings/1479214889.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214929.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-13-06-12-240
+[notice ] deleting /home/jonathan/recordings/1479214909.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214949.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-13-06-32-346
+[notice ] deleting /home/jonathan/recordings/1479214929.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214969.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-13-06-52-457
+[notice ] deleting /home/jonathan/recordings/1479214949.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479214989.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-13-07-12-553
+[notice ] deleting /home/jonathan/recordings/1479214969.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215009.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-13-07-32-653
+[notice ] deleting /home/jonathan/recordings/1479214989.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215029.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-13-07-52-743
+[notice ] deleting /home/jonathan/recordings/1479215009.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215049.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-13-08-12-843
+[notice ] deleting /home/jonathan/recordings/1479215029.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215069.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-13-08-32-952
+[notice ] deleting /home/jonathan/recordings/1479215049.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215089.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-13-08-53-052
+[notice ] deleting /home/jonathan/recordings/1479215069.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215109.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-13-09-13-156
+[notice ] deleting /home/jonathan/recordings/1479215089.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215129.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-13-09-33-258
+[notice ] deleting /home/jonathan/recordings/1479215109.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215149.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-13-09-53-357
+[notice ] deleting /home/jonathan/recordings/1479215129.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215169.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-13-10-13-460
+[notice ] deleting /home/jonathan/recordings/1479215149.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215189.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-13-10-33-560
+[notice ] deleting /home/jonathan/recordings/1479215169.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215209.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-13-10-53-662
+[notice ] deleting /home/jonathan/recordings/1479215189.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215229.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-13-11-13-762
+[notice ] deleting /home/jonathan/recordings/1479215209.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215249.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-13-11-33-871
+[notice ] deleting /home/jonathan/recordings/1479215229.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215269.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-13-11-53-979
+[notice ] deleting /home/jonathan/recordings/1479215249.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215289.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-13-12-14-072
+[notice ] deleting /home/jonathan/recordings/1479215269.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215309.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-13-12-34-181
+[notice ] deleting /home/jonathan/recordings/1479215289.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215329.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-13-12-54-269
+[notice ] deleting /home/jonathan/recordings/1479215309.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215349.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-13-13-14-370
+[notice ] deleting /home/jonathan/recordings/1479215329.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215369.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-13-13-34-472
+[notice ] deleting /home/jonathan/recordings/1479215349.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215389.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-13-13-54-586
+[notice ] deleting /home/jonathan/recordings/1479215369.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215409.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-13-14-14-682
+[notice ] deleting /home/jonathan/recordings/1479215389.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215429.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-13-14-34-786
+[notice ] deleting /home/jonathan/recordings/1479215409.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215449.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-13-14-54-892
+[notice ] deleting /home/jonathan/recordings/1479215429.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215469.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-13-15-14-986
+[notice ] deleting /home/jonathan/recordings/1479215449.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215489.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-13-15-35-083
+[notice ] deleting /home/jonathan/recordings/1479215469.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215509.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-13-15-55-186
+[notice ] deleting /home/jonathan/recordings/1479215489.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215529.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-13-16-15-276
+[notice ] deleting /home/jonathan/recordings/1479215509.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215549.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-13-16-35-398
+[notice ] deleting /home/jonathan/recordings/1479215529.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215569.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-13-16-55-505
+[notice ] deleting /home/jonathan/recordings/1479215549.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215589.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-13-17-15-609
+[notice ] deleting /home/jonathan/recordings/1479215569.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215609.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-13-17-35-716
+[notice ] deleting /home/jonathan/recordings/1479215589.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215629.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-13-17-55-816
+[notice ] deleting /home/jonathan/recordings/1479215609.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215649.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-13-18-15-917
+[notice ] deleting /home/jonathan/recordings/1479215629.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215669.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-13-18-36-012
+[notice ] deleting /home/jonathan/recordings/1479215649.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215689.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-13-18-56-114
+[notice ] deleting /home/jonathan/recordings/1479215669.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215709.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-13-19-16-213
+[notice ] deleting /home/jonathan/recordings/1479215689.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215729.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-13-19-36-315
+[notice ] deleting /home/jonathan/recordings/1479215709.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215749.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-13-19-56-423
+[notice ] deleting /home/jonathan/recordings/1479215729.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215769.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-13-20-16-512
+[notice ] deleting /home/jonathan/recordings/1479215749.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215789.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-13-20-36-627
+[notice ] deleting /home/jonathan/recordings/1479215769.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215809.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-13-20-56-710
+[notice ] deleting /home/jonathan/recordings/1479215789.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215829.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-13-21-16-818
+[notice ] deleting /home/jonathan/recordings/1479215809.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215849.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-13-21-36-914
+[notice ] deleting /home/jonathan/recordings/1479215829.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215869.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-13-21-57-016
+[notice ] deleting /home/jonathan/recordings/1479215849.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215889.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-13-22-17-118
+[notice ] deleting /home/jonathan/recordings/1479215869.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215909.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-13-22-37-232
+[notice ] deleting /home/jonathan/recordings/1479215889.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215929.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-13-22-57-325
+[notice ] deleting /home/jonathan/recordings/1479215909.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215949.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-13-23-17-434
+[notice ] deleting /home/jonathan/recordings/1479215929.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215969.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-13-23-37-521
+[notice ] deleting /home/jonathan/recordings/1479215949.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479215989.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-13-23-57-612
+[notice ] deleting /home/jonathan/recordings/1479215969.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216009.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-13-24-17-705
+[notice ] deleting /home/jonathan/recordings/1479215989.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216029.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-13-24-37-819
+[notice ] deleting /home/jonathan/recordings/1479216009.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216049.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-13-24-57-929
+[notice ] deleting /home/jonathan/recordings/1479216029.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216069.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-13-25-18-012
+[notice ] deleting /home/jonathan/recordings/1479216049.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216089.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-13-25-38-112
+[notice ] deleting /home/jonathan/recordings/1479216069.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216109.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-13-25-58-208
+[notice ] deleting /home/jonathan/recordings/1479216089.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216129.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-13-26-18-304
+[notice ] deleting /home/jonathan/recordings/1479216109.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216149.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-13-26-38-389
+[notice ] deleting /home/jonathan/recordings/1479216129.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216169.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-13-26-58-487
+[notice ] deleting /home/jonathan/recordings/1479216149.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216189.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-13-27-18-590
+[notice ] deleting /home/jonathan/recordings/1479216169.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216209.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-13-27-38-696
+[notice ] deleting /home/jonathan/recordings/1479216189.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216229.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-13-27-58-783
+[notice ] deleting /home/jonathan/recordings/1479216209.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216249.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-13-28-18-896
+[notice ] deleting /home/jonathan/recordings/1479216229.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216269.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-13-28-38-989
+[notice ] deleting /home/jonathan/recordings/1479216249.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216289.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-13-28-59-075
+[notice ] deleting /home/jonathan/recordings/1479216269.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216309.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-13-29-19-172
+[notice ] deleting /home/jonathan/recordings/1479216289.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216329.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-13-29-39-263
+[notice ] deleting /home/jonathan/recordings/1479216309.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216349.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-13-29-59-339
+[notice ] deleting /home/jonathan/recordings/1479216329.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216369.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-13-30-19-433
+[notice ] deleting /home/jonathan/recordings/1479216349.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216389.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-13-30-39-538
+[notice ] deleting /home/jonathan/recordings/1479216369.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216409.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-13-30-59-637
+[notice ] deleting /home/jonathan/recordings/1479216389.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216429.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-13-31-19-736
+[notice ] deleting /home/jonathan/recordings/1479216409.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216449.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-13-31-39-828
+[notice ] deleting /home/jonathan/recordings/1479216429.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216469.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-13-31-59-918
+[notice ] deleting /home/jonathan/recordings/1479216449.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216489.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-13-32-20-018
+[notice ] deleting /home/jonathan/recordings/1479216469.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216509.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-13-32-40-124
+[notice ] deleting /home/jonathan/recordings/1479216489.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216529.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-13-33-00-205
+[notice ] deleting /home/jonathan/recordings/1479216509.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216549.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-13-33-20-295
+[notice ] deleting /home/jonathan/recordings/1479216529.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216569.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-13-33-40-372
+[notice ] deleting /home/jonathan/recordings/1479216549.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216589.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-13-34-00-469
+[notice ] deleting /home/jonathan/recordings/1479216569.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216609.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-13-34-20-567
+[notice ] deleting /home/jonathan/recordings/1479216589.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216629.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-13-34-40-673
+[notice ] deleting /home/jonathan/recordings/1479216609.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216649.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-13-35-00-801
+[notice ] deleting /home/jonathan/recordings/1479216629.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216669.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-13-35-20-909
+[notice ] deleting /home/jonathan/recordings/1479216649.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216689.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-13-35-41-006
+[notice ] deleting /home/jonathan/recordings/1479216669.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216709.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-13-36-01-093
+[notice ] deleting /home/jonathan/recordings/1479216689.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216729.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-13-36-21-203
+[notice ] deleting /home/jonathan/recordings/1479216709.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216749.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-13-36-41-307
+[notice ] deleting /home/jonathan/recordings/1479216729.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216769.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-13-37-01-386
+[notice ] deleting /home/jonathan/recordings/1479216749.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216789.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-13-37-21-486
+[notice ] deleting /home/jonathan/recordings/1479216769.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216809.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-13-37-41-592
+[notice ] deleting /home/jonathan/recordings/1479216789.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216829.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-13-38-01-677
+[notice ] deleting /home/jonathan/recordings/1479216809.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216849.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-13-38-21-791
+[notice ] deleting /home/jonathan/recordings/1479216829.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216869.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-13-38-41-873
+[notice ] deleting /home/jonathan/recordings/1479216849.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216889.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-13-39-01-981
+[notice ] deleting /home/jonathan/recordings/1479216869.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216909.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-13-39-22-092
+[notice ] deleting /home/jonathan/recordings/1479216889.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216929.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-13-39-42-202
+[notice ] deleting /home/jonathan/recordings/1479216909.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216949.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-13-40-02-305
+[notice ] deleting /home/jonathan/recordings/1479216929.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216969.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-13-40-22-405
+[notice ] deleting /home/jonathan/recordings/1479216949.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479216989.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-13-40-42-498
+[notice ] deleting /home/jonathan/recordings/1479216969.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217009.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-13-41-02-596
+[notice ] deleting /home/jonathan/recordings/1479216989.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217029.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-13-41-22-699
+[notice ] deleting /home/jonathan/recordings/1479217009.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217049.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-13-41-42-802
+[notice ] deleting /home/jonathan/recordings/1479217029.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217069.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-13-42-02-906
+[notice ] deleting /home/jonathan/recordings/1479217049.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217089.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-13-42-23-004
+[notice ] deleting /home/jonathan/recordings/1479217069.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217109.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-13-42-43-107
+[notice ] deleting /home/jonathan/recordings/1479217089.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217129.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-13-43-03-195
+[notice ] deleting /home/jonathan/recordings/1479217109.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217149.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-13-43-23-302
+[notice ] deleting /home/jonathan/recordings/1479217129.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217169.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-13-43-43-398
+[notice ] deleting /home/jonathan/recordings/1479217149.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217189.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-13-44-03-501
+[notice ] deleting /home/jonathan/recordings/1479217169.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217209.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-13-44-23-601
+[notice ] deleting /home/jonathan/recordings/1479217189.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217229.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-13-44-43-700
+[notice ] deleting /home/jonathan/recordings/1479217209.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217249.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-13-45-03-821
+[notice ] deleting /home/jonathan/recordings/1479217229.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217269.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-13-45-23-925
+[notice ] deleting /home/jonathan/recordings/1479217249.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217289.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-13-45-44-028
+[notice ] deleting /home/jonathan/recordings/1479217269.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217309.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-13-46-04-130
+[notice ] deleting /home/jonathan/recordings/1479217289.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217329.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-13-46-24-234
+[notice ] deleting /home/jonathan/recordings/1479217309.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217349.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-13-46-44-355
+[notice ] deleting /home/jonathan/recordings/1479217329.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217369.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-13-47-04-444
+[notice ] deleting /home/jonathan/recordings/1479217349.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217389.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-13-47-24-544
+[notice ] deleting /home/jonathan/recordings/1479217369.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217409.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-13-47-44-649
+[notice ] deleting /home/jonathan/recordings/1479217389.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217429.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-13-48-04-747
+[notice ] deleting /home/jonathan/recordings/1479217409.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217449.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-13-48-24-850
+[notice ] deleting /home/jonathan/recordings/1479217429.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217469.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-13-48-44-973
+[notice ] deleting /home/jonathan/recordings/1479217449.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217489.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-13-49-05-079
+[notice ] deleting /home/jonathan/recordings/1479217469.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217509.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-13-49-25-173
+[notice ] deleting /home/jonathan/recordings/1479217489.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217529.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-13-49-45-283
+[notice ] deleting /home/jonathan/recordings/1479217509.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217549.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-13-50-05-381
+[notice ] deleting /home/jonathan/recordings/1479217529.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217569.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-13-50-25-477
+[notice ] deleting /home/jonathan/recordings/1479217549.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217589.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-13-50-45-575
+[notice ] deleting /home/jonathan/recordings/1479217569.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217609.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-13-51-05-671
+[notice ] deleting /home/jonathan/recordings/1479217589.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217629.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-13-51-25-769
+[notice ] deleting /home/jonathan/recordings/1479217609.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217649.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-13-51-45-887
+[notice ] deleting /home/jonathan/recordings/1479217629.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217669.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-13-52-06-002
+[notice ] deleting /home/jonathan/recordings/1479217649.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217689.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-13-52-26-110
+[notice ] deleting /home/jonathan/recordings/1479217669.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217709.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-13-52-46-209
+[notice ] deleting /home/jonathan/recordings/1479217689.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217729.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-13-53-06-322
+[notice ] deleting /home/jonathan/recordings/1479217709.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217749.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-13-53-26-411
+[notice ] deleting /home/jonathan/recordings/1479217729.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217769.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-13-53-46-520
+[notice ] deleting /home/jonathan/recordings/1479217749.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217789.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-13-54-06-620
+[notice ] deleting /home/jonathan/recordings/1479217769.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217809.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-13-54-26-713
+[notice ] deleting /home/jonathan/recordings/1479217789.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217829.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-13-54-46-811
+[notice ] deleting /home/jonathan/recordings/1479217809.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217849.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-13-55-06-912
+[notice ] deleting /home/jonathan/recordings/1479217829.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217869.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-13-55-27-003
+[notice ] deleting /home/jonathan/recordings/1479217849.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217889.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-13-55-47-113
+[notice ] deleting /home/jonathan/recordings/1479217869.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217909.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-13-56-07-214
+[notice ] deleting /home/jonathan/recordings/1479217889.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217929.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-13-56-27-311
+[notice ] deleting /home/jonathan/recordings/1479217909.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217949.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-13-56-47-408
+[notice ] deleting /home/jonathan/recordings/1479217929.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217969.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-13-57-07-506
+[notice ] deleting /home/jonathan/recordings/1479217949.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479217989.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-13-57-27-610
+[notice ] deleting /home/jonathan/recordings/1479217969.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218009.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-13-57-47-705
+[notice ] deleting /home/jonathan/recordings/1479217989.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218029.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-13-58-07-804
+[notice ] deleting /home/jonathan/recordings/1479218009.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218049.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-13-58-27-908
+[notice ] deleting /home/jonathan/recordings/1479218029.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218069.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-13-58-48-018
+[notice ] deleting /home/jonathan/recordings/1479218049.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218089.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-13-59-08-118
+[notice ] deleting /home/jonathan/recordings/1479218069.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218109.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-13-59-28-221
+[notice ] deleting /home/jonathan/recordings/1479218089.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218129.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-13-59-48-319
+[notice ] deleting /home/jonathan/recordings/1479218109.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218149.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-14-00-08-423
+[notice ] deleting /home/jonathan/recordings/1479218129.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218169.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-14-00-28-521
+[notice ] deleting /home/jonathan/recordings/1479218149.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218189.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-14-00-48-605
+[notice ] deleting /home/jonathan/recordings/1479218169.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218209.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-14-01-08-712
+[notice ] deleting /home/jonathan/recordings/1479218189.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218229.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-14-01-28-814
+[notice ] deleting /home/jonathan/recordings/1479218209.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218249.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-14-01-48-904
+[notice ] deleting /home/jonathan/recordings/1479218229.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218269.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-14-02-09-008
+[notice ] deleting /home/jonathan/recordings/1479218249.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218289.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-14-02-29-097
+[notice ] deleting /home/jonathan/recordings/1479218269.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218309.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-14-02-49-184
+[notice ] deleting /home/jonathan/recordings/1479218289.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218329.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-14-03-09-288
+[notice ] deleting /home/jonathan/recordings/1479218309.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218349.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-14-03-29-387
+[notice ] deleting /home/jonathan/recordings/1479218329.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218369.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-14-03-49-489
+[notice ] deleting /home/jonathan/recordings/1479218349.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218389.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-14-04-09-590
+[notice ] deleting /home/jonathan/recordings/1479218369.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218409.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-14-04-29-691
+[notice ] deleting /home/jonathan/recordings/1479218389.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218429.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-14-04-49-769
+[notice ] deleting /home/jonathan/recordings/1479218409.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218449.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-14-05-09-871
+[notice ] deleting /home/jonathan/recordings/1479218429.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218469.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-14-05-29-961
+[notice ] deleting /home/jonathan/recordings/1479218449.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218489.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-14-05-50-066
+[notice ] deleting /home/jonathan/recordings/1479218469.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218529.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-14-06-10-171
+[notice ] deleting /home/jonathan/recordings/1479218489.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218549.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-14-06-30-259
+[notice ] deleting /home/jonathan/recordings/1479218529.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218569.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-14-06-50-366
+[notice ] deleting /home/jonathan/recordings/1479218549.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218589.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-14-07-10-468
+[notice ] deleting /home/jonathan/recordings/1479218569.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218609.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-14-07-30-560
+[notice ] deleting /home/jonathan/recordings/1479218589.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218629.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-14-07-50-658
+[notice ] deleting /home/jonathan/recordings/1479218609.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218649.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-14-08-10-746
+[notice ] deleting /home/jonathan/recordings/1479218629.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218669.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-14-08-30-853
+[notice ] deleting /home/jonathan/recordings/1479218649.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218689.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-14-08-50-966
+[notice ] deleting /home/jonathan/recordings/1479218669.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218709.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-14-09-11-066
+[notice ] deleting /home/jonathan/recordings/1479218689.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218729.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-14-09-31-168
+[notice ] deleting /home/jonathan/recordings/1479218709.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218749.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-14-09-51-251
+[notice ] deleting /home/jonathan/recordings/1479218729.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218769.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-14-10-11-343
+[notice ] deleting /home/jonathan/recordings/1479218749.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218789.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-14-10-31-438
+[notice ] deleting /home/jonathan/recordings/1479218769.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218809.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-14-10-51-549
+[notice ] deleting /home/jonathan/recordings/1479218789.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218829.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-14-11-11-651
+[notice ] deleting /home/jonathan/recordings/1479218809.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218849.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-14-11-31-740
+[notice ] deleting /home/jonathan/recordings/1479218829.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218869.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-14-11-51-850
+[notice ] deleting /home/jonathan/recordings/1479218849.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218889.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-14-12-11-965
+[notice ] deleting /home/jonathan/recordings/1479218869.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218909.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-14-12-32-069
+[notice ] deleting /home/jonathan/recordings/1479218889.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218929.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-14-12-52-173
+[notice ] deleting /home/jonathan/recordings/1479218909.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218949.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-14-13-12-270
+[notice ] deleting /home/jonathan/recordings/1479218929.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218969.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-14-13-32-362
+[notice ] deleting /home/jonathan/recordings/1479218949.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479218989.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-14-13-52-470
+[notice ] deleting /home/jonathan/recordings/1479218969.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219009.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-14-14-12-562
+[notice ] deleting /home/jonathan/recordings/1479218989.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219029.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-14-14-32-671
+[notice ] deleting /home/jonathan/recordings/1479219009.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219049.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-14-14-52-770
+[notice ] deleting /home/jonathan/recordings/1479219029.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219069.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-14-15-12-877
+[notice ] deleting /home/jonathan/recordings/1479219049.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219089.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-14-15-32-968
+[notice ] deleting /home/jonathan/recordings/1479219069.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219109.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-14-15-53-060
+[notice ] deleting /home/jonathan/recordings/1479219089.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219129.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-14-16-13-156
+[notice ] deleting /home/jonathan/recordings/1479219109.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219149.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-14-16-33-270
+[notice ] deleting /home/jonathan/recordings/1479219129.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219169.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-14-16-53-381
+[notice ] deleting /home/jonathan/recordings/1479219149.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219189.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-14-17-13-486
+[notice ] deleting /home/jonathan/recordings/1479219169.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219209.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-14-17-33-590
+[notice ] deleting /home/jonathan/recordings/1479219189.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219229.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-14-17-53-704
+[notice ] deleting /home/jonathan/recordings/1479219209.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219249.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-14-18-13-806
+[notice ] deleting /home/jonathan/recordings/1479219229.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219269.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-14-18-33-915
+[notice ] deleting /home/jonathan/recordings/1479219249.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219289.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-14-18-54-009
+[notice ] deleting /home/jonathan/recordings/1479219269.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219309.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-14-19-14-102
+[notice ] deleting /home/jonathan/recordings/1479219289.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219329.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-14-19-34-178
+[notice ] deleting /home/jonathan/recordings/1479219309.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219349.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-14-19-54-275
+[notice ] deleting /home/jonathan/recordings/1479219329.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219369.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-14-20-14-373
+[notice ] deleting /home/jonathan/recordings/1479219349.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219389.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-14-20-34-480
+[notice ] deleting /home/jonathan/recordings/1479219369.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219409.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-14-20-54-574
+[notice ] deleting /home/jonathan/recordings/1479219389.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219429.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-14-21-14-681
+[notice ] deleting /home/jonathan/recordings/1479219409.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219449.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-14-21-34-794
+[notice ] deleting /home/jonathan/recordings/1479219429.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219469.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-14-21-54-883
+[notice ] deleting /home/jonathan/recordings/1479219449.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219489.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-14-22-14-977
+[notice ] deleting /home/jonathan/recordings/1479219469.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219509.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-14-22-35-074
+[notice ] deleting /home/jonathan/recordings/1479219489.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219529.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-14-22-55-176
+[notice ] deleting /home/jonathan/recordings/1479219509.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219549.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-14-23-15-282
+[notice ] deleting /home/jonathan/recordings/1479219529.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219569.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-14-23-35-384
+[notice ] deleting /home/jonathan/recordings/1479219549.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219589.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-14-23-55-495
+[notice ] deleting /home/jonathan/recordings/1479219569.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219609.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-14-24-15-601
+[notice ] deleting /home/jonathan/recordings/1479219589.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219629.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-14-24-35-708
+[notice ] deleting /home/jonathan/recordings/1479219609.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219649.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-14-24-55-804
+[notice ] deleting /home/jonathan/recordings/1479219629.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219669.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-14-25-15-907
+[notice ] deleting /home/jonathan/recordings/1479219649.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219689.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-14-25-36-006
+[notice ] deleting /home/jonathan/recordings/1479219669.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219709.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-14-25-56-099
+[notice ] deleting /home/jonathan/recordings/1479219689.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219729.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-14-26-16-188
+[notice ] deleting /home/jonathan/recordings/1479219709.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219749.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-14-26-36-280
+[notice ] deleting /home/jonathan/recordings/1479219729.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219769.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-14-26-56-368
+[notice ] deleting /home/jonathan/recordings/1479219749.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219789.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-14-27-16-468
+[notice ] deleting /home/jonathan/recordings/1479219769.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219809.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-14-27-36-569
+[notice ] deleting /home/jonathan/recordings/1479219789.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219829.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-14-27-56-671
+[notice ] deleting /home/jonathan/recordings/1479219809.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219849.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-14-28-16-767
+[notice ] deleting /home/jonathan/recordings/1479219829.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219869.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-14-28-36-870
+[notice ] deleting /home/jonathan/recordings/1479219849.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219889.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-14-28-56-964
+[notice ] deleting /home/jonathan/recordings/1479219869.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219909.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-14-29-17-070
+[notice ] deleting /home/jonathan/recordings/1479219889.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219929.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-14-29-37-165
+[notice ] deleting /home/jonathan/recordings/1479219909.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219949.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-14-29-57-271
+[notice ] deleting /home/jonathan/recordings/1479219929.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219969.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-14-30-17-373
+[notice ] deleting /home/jonathan/recordings/1479219949.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479219989.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-14-30-37-469
+[notice ] deleting /home/jonathan/recordings/1479219969.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220009.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-14-30-57-552
+[notice ] deleting /home/jonathan/recordings/1479219989.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220029.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-14-31-17-654
+[notice ] deleting /home/jonathan/recordings/1479220009.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220049.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-14-31-37-748
+[notice ] deleting /home/jonathan/recordings/1479220029.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220069.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-14-31-57-838
+[notice ] deleting /home/jonathan/recordings/1479220049.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220089.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-14-32-17-927
+[notice ] deleting /home/jonathan/recordings/1479220069.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220109.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-14-32-38-033
+[notice ] deleting /home/jonathan/recordings/1479220089.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220129.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-14-32-58-131
+[notice ] deleting /home/jonathan/recordings/1479220109.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220149.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-14-33-18-228
+[notice ] deleting /home/jonathan/recordings/1479220129.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220169.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-14-33-38-322
+[notice ] deleting /home/jonathan/recordings/1479220149.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220189.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-14-33-58-416
+[notice ] deleting /home/jonathan/recordings/1479220169.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220209.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-14-34-18-526
+[notice ] deleting /home/jonathan/recordings/1479220189.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220229.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-14-34-38-631
+[notice ] deleting /home/jonathan/recordings/1479220209.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220249.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-14-34-58-727
+[notice ] deleting /home/jonathan/recordings/1479220229.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220269.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-14-35-18-826
+[notice ] deleting /home/jonathan/recordings/1479220249.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220289.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-14-35-38-911
+[notice ] deleting /home/jonathan/recordings/1479220269.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220309.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-14-35-59-254
+[notice ] deleting /home/jonathan/recordings/1479220289.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220319.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-14-36-09-345
+[notice ] deleting /home/jonathan/recordings/1479220309.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220339.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-14-36-29-451
+[notice ] deleting /home/jonathan/recordings/1479220319.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220359.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-14-36-49-560
+[notice ] deleting /home/jonathan/recordings/1479220339.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220379.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-14-37-09-664
+[notice ] deleting /home/jonathan/recordings/1479220359.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220399.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-14-37-29-771
+[notice ] deleting /home/jonathan/recordings/1479220379.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220419.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-14-37-49-872
+[notice ] deleting /home/jonathan/recordings/1479220399.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220439.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-14-38-09-980
+[notice ] deleting /home/jonathan/recordings/1479220419.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220459.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-14-38-30-084
+[notice ] deleting /home/jonathan/recordings/1479220439.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220479.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-14-38-50-184
+[notice ] deleting /home/jonathan/recordings/1479220459.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220499.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-14-39-10-289
+[notice ] deleting /home/jonathan/recordings/1479220479.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220519.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-14-39-30-387
+[notice ] deleting /home/jonathan/recordings/1479220499.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220539.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-14-39-50-486
+[notice ] deleting /home/jonathan/recordings/1479220519.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220559.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-14-40-10-587
+[notice ] deleting /home/jonathan/recordings/1479220539.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220579.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-14-40-30-693
+[notice ] deleting /home/jonathan/recordings/1479220559.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220599.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-14-40-50-788
+[notice ] deleting /home/jonathan/recordings/1479220579.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220619.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-14-41-10-883
+[notice ] deleting /home/jonathan/recordings/1479220599.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220639.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-14-41-30-985
+[notice ] deleting /home/jonathan/recordings/1479220619.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220659.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-14-41-51-075
+[notice ] deleting /home/jonathan/recordings/1479220639.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220679.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-14-42-11-183
+[notice ] deleting /home/jonathan/recordings/1479220659.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220699.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-14-42-31-282
+[notice ] deleting /home/jonathan/recordings/1479220679.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220719.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-14-42-51-383
+[notice ] deleting /home/jonathan/recordings/1479220699.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220739.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-14-43-11-479
+[notice ] deleting /home/jonathan/recordings/1479220719.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220759.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-14-43-31-596
+[notice ] deleting /home/jonathan/recordings/1479220739.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220779.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-14-43-51-711
+[notice ] deleting /home/jonathan/recordings/1479220759.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220799.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-14-44-11-829
+[notice ] deleting /home/jonathan/recordings/1479220779.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220819.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-14-44-31-940
+[notice ] deleting /home/jonathan/recordings/1479220799.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220839.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-14-44-52-038
+[notice ] deleting /home/jonathan/recordings/1479220819.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220859.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-14-45-12-124
+[notice ] deleting /home/jonathan/recordings/1479220839.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220879.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-14-45-32-237
+[notice ] deleting /home/jonathan/recordings/1479220859.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220899.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-14-45-52-342
+[notice ] deleting /home/jonathan/recordings/1479220879.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220919.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-14-46-12-458
+[notice ] deleting /home/jonathan/recordings/1479220899.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220939.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-14-46-32-578
+[notice ] deleting /home/jonathan/recordings/1479220919.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220959.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-14-46-52-689
+[notice ] deleting /home/jonathan/recordings/1479220939.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220979.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-14-47-12-774
+[notice ] deleting /home/jonathan/recordings/1479220959.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479220999.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-14-47-32-878
+[notice ] deleting /home/jonathan/recordings/1479220979.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221019.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-14-47-52-983
+[notice ] deleting /home/jonathan/recordings/1479220999.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221039.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-14-48-13-087
+[notice ] deleting /home/jonathan/recordings/1479221019.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221059.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-14-48-33-178
+[notice ] deleting /home/jonathan/recordings/1479221039.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221079.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-14-48-53-278
+[notice ] deleting /home/jonathan/recordings/1479221059.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221099.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-14-49-13-383
+[notice ] deleting /home/jonathan/recordings/1479221079.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221119.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-14-49-33-482
+[notice ] deleting /home/jonathan/recordings/1479221099.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221139.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-14-49-53-579
+[notice ] deleting /home/jonathan/recordings/1479221119.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221159.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-14-50-13-682
+[notice ] deleting /home/jonathan/recordings/1479221139.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221179.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-14-50-33-779
+[notice ] deleting /home/jonathan/recordings/1479221159.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221199.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-14-50-53-875
+[notice ] deleting /home/jonathan/recordings/1479221179.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221219.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-14-51-13-976
+[notice ] deleting /home/jonathan/recordings/1479221199.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221239.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-14-51-34-084
+[notice ] deleting /home/jonathan/recordings/1479221219.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221259.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-14-51-54-181
+[notice ] deleting /home/jonathan/recordings/1479221239.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221279.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-14-52-14-278
+[notice ] deleting /home/jonathan/recordings/1479221259.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221299.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-14-52-34-387
+[notice ] deleting /home/jonathan/recordings/1479221279.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221319.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-14-52-54-488
+[notice ] deleting /home/jonathan/recordings/1479221299.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221339.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-14-53-14-594
+[notice ] deleting /home/jonathan/recordings/1479221319.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221359.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-14-53-34-699
+[notice ] deleting /home/jonathan/recordings/1479221339.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221379.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-14-53-54-813
+[notice ] deleting /home/jonathan/recordings/1479221359.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221399.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-14-54-14-914
+[notice ] deleting /home/jonathan/recordings/1479221379.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221419.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-14-54-35-008
+[notice ] deleting /home/jonathan/recordings/1479221399.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221439.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-14-54-55-123
+[notice ] deleting /home/jonathan/recordings/1479221419.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221459.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-14-55-15-226
+[notice ] deleting /home/jonathan/recordings/1479221439.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221479.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-14-55-35-330
+[notice ] deleting /home/jonathan/recordings/1479221459.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221499.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-14-55-55-425
+[notice ] deleting /home/jonathan/recordings/1479221479.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221519.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-14-56-15-515
+[notice ] deleting /home/jonathan/recordings/1479221499.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221539.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-14-56-35-610
+[notice ] deleting /home/jonathan/recordings/1479221519.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221559.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-14-56-55-714
+[notice ] deleting /home/jonathan/recordings/1479221539.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221579.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-14-57-15-807
+[notice ] deleting /home/jonathan/recordings/1479221559.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221599.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-14-57-35-913
+[notice ] deleting /home/jonathan/recordings/1479221579.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221619.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-14-57-56-005
+[notice ] deleting /home/jonathan/recordings/1479221599.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221639.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-14-58-16-106
+[notice ] deleting /home/jonathan/recordings/1479221619.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221659.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-14-58-36-209
+[notice ] deleting /home/jonathan/recordings/1479221639.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221679.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-14-58-56-304
+[notice ] deleting /home/jonathan/recordings/1479221659.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221699.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-14-59-16-404
+[notice ] deleting /home/jonathan/recordings/1479221679.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221719.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-14-59-36-507
+[notice ] deleting /home/jonathan/recordings/1479221699.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221739.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-14-59-56-601
+[notice ] deleting /home/jonathan/recordings/1479221719.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221759.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-15-00-16-714
+[notice ] deleting /home/jonathan/recordings/1479221739.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221779.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-15-00-36-797
+[notice ] deleting /home/jonathan/recordings/1479221759.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221799.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-15-00-56-902
+[notice ] deleting /home/jonathan/recordings/1479221779.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221819.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-15-01-17-004
+[notice ] deleting /home/jonathan/recordings/1479221799.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221839.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-15-01-37-111
+[notice ] deleting /home/jonathan/recordings/1479221819.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221859.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-15-01-57-205
+[notice ] deleting /home/jonathan/recordings/1479221839.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221879.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-15-02-17-296
+[notice ] deleting /home/jonathan/recordings/1479221859.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221899.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-15-02-37-372
+[notice ] deleting /home/jonathan/recordings/1479221879.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221919.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-15-02-57-461
+[notice ] deleting /home/jonathan/recordings/1479221899.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221939.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-15-03-17-570
+[notice ] deleting /home/jonathan/recordings/1479221919.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221959.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-15-03-37-671
+[notice ] deleting /home/jonathan/recordings/1479221939.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221979.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-15-03-57-755
+[notice ] deleting /home/jonathan/recordings/1479221959.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479221999.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-15-04-17-849
+[notice ] deleting /home/jonathan/recordings/1479221979.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222019.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-15-04-37-955
+[notice ] deleting /home/jonathan/recordings/1479221999.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222039.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-15-04-58-047
+[notice ] deleting /home/jonathan/recordings/1479222019.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222059.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-15-05-18-147
+[notice ] deleting /home/jonathan/recordings/1479222039.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222079.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-15-05-38-234
+[notice ] deleting /home/jonathan/recordings/1479222059.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222099.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-15-05-58-322
+[notice ] deleting /home/jonathan/recordings/1479222079.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222119.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-15-06-18-408
+[notice ] deleting /home/jonathan/recordings/1479222099.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222139.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-15-06-38-487
+[notice ] deleting /home/jonathan/recordings/1479222119.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222159.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-15-06-58-590
+[notice ] deleting /home/jonathan/recordings/1479222139.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222179.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-15-07-18-683
+[notice ] deleting /home/jonathan/recordings/1479222159.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222199.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-15-07-38-774
+[notice ] deleting /home/jonathan/recordings/1479222179.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222219.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-15-07-58-873
+[notice ] deleting /home/jonathan/recordings/1479222199.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222239.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-15-08-18-973
+[notice ] deleting /home/jonathan/recordings/1479222219.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222259.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-15-08-39-070
+[notice ] deleting /home/jonathan/recordings/1479222239.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222279.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-15-08-59-168
+[notice ] deleting /home/jonathan/recordings/1479222259.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222299.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-15-09-19-267
+[notice ] deleting /home/jonathan/recordings/1479222279.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222319.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-15-09-39-371
+[notice ] deleting /home/jonathan/recordings/1479222299.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222339.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-15-09-59-478
+[notice ] deleting /home/jonathan/recordings/1479222319.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222359.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-15-10-19-570
+[notice ] deleting /home/jonathan/recordings/1479222339.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222379.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-15-10-39-671
+[notice ] deleting /home/jonathan/recordings/1479222359.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222399.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-15-10-59-771
+[notice ] deleting /home/jonathan/recordings/1479222379.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222419.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-15-11-19-875
+[notice ] deleting /home/jonathan/recordings/1479222399.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222439.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-15-11-39-985
+[notice ] deleting /home/jonathan/recordings/1479222419.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222459.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-15-12-00-077
+[notice ] deleting /home/jonathan/recordings/1479222439.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222499.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-15-12-20-169
+[notice ] deleting /home/jonathan/recordings/1479222459.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222519.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-15-12-40-271
+[notice ] deleting /home/jonathan/recordings/1479222499.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222539.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-15-13-00-367
+[notice ] deleting /home/jonathan/recordings/1479222519.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222559.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-15-13-20-484
+[notice ] deleting /home/jonathan/recordings/1479222539.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222579.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-15-13-40-555
+[notice ] deleting /home/jonathan/recordings/1479222559.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222599.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-15-14-00-659
+[notice ] deleting /home/jonathan/recordings/1479222579.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222619.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-15-14-20-762
+[notice ] deleting /home/jonathan/recordings/1479222599.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222639.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-15-14-40-867
+[notice ] deleting /home/jonathan/recordings/1479222619.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222659.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-15-15-00-962
+[notice ] deleting /home/jonathan/recordings/1479222639.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222679.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-15-15-21-058
+[notice ] deleting /home/jonathan/recordings/1479222659.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222699.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-15-15-41-153
+[notice ] deleting /home/jonathan/recordings/1479222679.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222719.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-15-16-01-238
+[notice ] deleting /home/jonathan/recordings/1479222699.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222739.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-15-16-21-339
+[notice ] deleting /home/jonathan/recordings/1479222719.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222759.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-15-16-41-431
+[notice ] deleting /home/jonathan/recordings/1479222739.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222779.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-15-17-01-527
+[notice ] deleting /home/jonathan/recordings/1479222759.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222799.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-15-17-21-626
+[notice ] deleting /home/jonathan/recordings/1479222779.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222819.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-15-17-41-727
+[notice ] deleting /home/jonathan/recordings/1479222799.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222839.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-15-18-01-822
+[notice ] deleting /home/jonathan/recordings/1479222819.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222859.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-15-18-21-928
+[notice ] deleting /home/jonathan/recordings/1479222839.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222879.mkv
+
+[notice ] time offset : 2
+
+[notice ] 2016-11-15-15-18-42-020
+[notice ] deleting /home/jonathan/recordings/1479222859.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222899.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-15-19-02-126
+[notice ] deleting /home/jonathan/recordings/1479222879.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222919.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-15-19-22-221
+[notice ] deleting /home/jonathan/recordings/1479222899.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222939.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-15-19-42-315
+[notice ] deleting /home/jonathan/recordings/1479222919.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222959.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-15-20-02-425
+[notice ] deleting /home/jonathan/recordings/1479222939.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222979.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-15-20-22-519
+[notice ] deleting /home/jonathan/recordings/1479222959.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479222999.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-15-20-42-608
+[notice ] deleting /home/jonathan/recordings/1479222979.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223019.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-15-21-02-710
+[notice ] deleting /home/jonathan/recordings/1479222999.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223039.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-15-21-22-805
+[notice ] deleting /home/jonathan/recordings/1479223019.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223059.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-15-21-42-904
+[notice ] deleting /home/jonathan/recordings/1479223039.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223079.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-15-22-03-003
+[notice ] deleting /home/jonathan/recordings/1479223059.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223099.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-15-22-23-101
+[notice ] deleting /home/jonathan/recordings/1479223079.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223119.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-15-22-43-203
+[notice ] deleting /home/jonathan/recordings/1479223099.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223139.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-15-23-03-304
+[notice ] deleting /home/jonathan/recordings/1479223119.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223159.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-15-23-23-415
+[notice ] deleting /home/jonathan/recordings/1479223139.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223179.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-15-23-43-504
+[notice ] deleting /home/jonathan/recordings/1479223159.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223199.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-15-24-03-606
+[notice ] deleting /home/jonathan/recordings/1479223179.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223219.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-15-24-23-703
+[notice ] deleting /home/jonathan/recordings/1479223199.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223239.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-15-24-43-806
+[notice ] deleting /home/jonathan/recordings/1479223219.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223259.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-15-25-03-907
+[notice ] deleting /home/jonathan/recordings/1479223239.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223279.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-15-25-24-008
+[notice ] deleting /home/jonathan/recordings/1479223259.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223299.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-15-25-44-100
+[notice ] deleting /home/jonathan/recordings/1479223279.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223319.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-15-26-04-186
+[notice ] deleting /home/jonathan/recordings/1479223299.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223339.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-15-26-24-289
+[notice ] deleting /home/jonathan/recordings/1479223319.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223359.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-15-26-44-394
+[notice ] deleting /home/jonathan/recordings/1479223339.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223379.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-15-27-04-490
+[notice ] deleting /home/jonathan/recordings/1479223359.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223399.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-15-27-24-588
+[notice ] deleting /home/jonathan/recordings/1479223379.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223419.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-15-27-44-694
+[notice ] deleting /home/jonathan/recordings/1479223399.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223439.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-15-28-04-793
+[notice ] deleting /home/jonathan/recordings/1479223419.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223459.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-15-28-24-894
+[notice ] deleting /home/jonathan/recordings/1479223439.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223479.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-15-28-44-984
+[notice ] deleting /home/jonathan/recordings/1479223459.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223499.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-15-29-05-090
+[notice ] deleting /home/jonathan/recordings/1479223479.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223519.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-15-29-25-188
+[notice ] deleting /home/jonathan/recordings/1479223499.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223539.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-15-29-45-282
+[notice ] deleting /home/jonathan/recordings/1479223519.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223559.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-15-30-05-368
+[notice ] deleting /home/jonathan/recordings/1479223539.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223579.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-15-30-25-443
+[notice ] deleting /home/jonathan/recordings/1479223559.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223599.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-15-30-45-530
+[notice ] deleting /home/jonathan/recordings/1479223579.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223619.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-15-31-05-628
+[notice ] deleting /home/jonathan/recordings/1479223599.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223639.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-15-31-25-712
+[notice ] deleting /home/jonathan/recordings/1479223619.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223659.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-15-31-45-807
+[notice ] deleting /home/jonathan/recordings/1479223639.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223679.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-15-32-05-905
+[notice ] deleting /home/jonathan/recordings/1479223659.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223699.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-15-32-25-998
+[notice ] deleting /home/jonathan/recordings/1479223679.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223719.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-15-32-46-079
+[notice ] deleting /home/jonathan/recordings/1479223699.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223739.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-15-33-06-155
+[notice ] deleting /home/jonathan/recordings/1479223719.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223759.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-15-33-26-252
+[notice ] deleting /home/jonathan/recordings/1479223739.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223779.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-15-33-46-344
+[notice ] deleting /home/jonathan/recordings/1479223759.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223799.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-15-34-06-426
+[notice ] deleting /home/jonathan/recordings/1479223779.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223819.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-15-34-26-535
+[notice ] deleting /home/jonathan/recordings/1479223799.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223839.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-15-34-46-633
+[notice ] deleting /home/jonathan/recordings/1479223819.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223859.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-15-35-06-714
+[notice ] deleting /home/jonathan/recordings/1479223839.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223879.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-15-35-26-797
+[notice ] deleting /home/jonathan/recordings/1479223859.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223899.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-15-35-46-887
+[notice ] deleting /home/jonathan/recordings/1479223879.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223919.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-15-36-06-988
+[notice ] deleting /home/jonathan/recordings/1479223899.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223939.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-15-36-27-090
+[notice ] deleting /home/jonathan/recordings/1479223919.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223959.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-15-36-47-184
+[notice ] deleting /home/jonathan/recordings/1479223939.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223979.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-15-37-07-284
+[notice ] deleting /home/jonathan/recordings/1479223959.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479223999.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-15-37-27-380
+[notice ] deleting /home/jonathan/recordings/1479223979.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224019.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-15-37-47-466
+[notice ] deleting /home/jonathan/recordings/1479223999.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224039.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-15-38-07-572
+[notice ] deleting /home/jonathan/recordings/1479224019.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224059.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-15-38-27-667
+[notice ] deleting /home/jonathan/recordings/1479224039.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224079.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-15-38-47-762
+[notice ] deleting /home/jonathan/recordings/1479224059.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224099.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-15-39-07-852
+[notice ] deleting /home/jonathan/recordings/1479224079.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224119.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-15-39-27-949
+[notice ] deleting /home/jonathan/recordings/1479224099.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224139.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-15-39-48-026
+[notice ] deleting /home/jonathan/recordings/1479224119.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224159.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-15-40-08-118
+[notice ] deleting /home/jonathan/recordings/1479224139.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224179.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-15-40-28-228
+[notice ] deleting /home/jonathan/recordings/1479224159.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224199.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-15-40-48-305
+[notice ] deleting /home/jonathan/recordings/1479224179.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224219.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-15-41-08-430
+[notice ] deleting /home/jonathan/recordings/1479224199.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224239.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-15-41-28-548
+[notice ] deleting /home/jonathan/recordings/1479224219.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224259.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-15-41-48-631
+[notice ] deleting /home/jonathan/recordings/1479224239.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224279.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-15-42-08-726
+[notice ] deleting /home/jonathan/recordings/1479224259.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224299.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-15-42-28-853
+[notice ] deleting /home/jonathan/recordings/1479224279.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224319.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-15-42-48-947
+[notice ] deleting /home/jonathan/recordings/1479224299.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224339.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-15-43-09-059
+[notice ] deleting /home/jonathan/recordings/1479224319.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224359.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-15-43-29-149
+[notice ] deleting /home/jonathan/recordings/1479224339.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224379.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-15-43-49-246
+[notice ] deleting /home/jonathan/recordings/1479224359.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224399.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-15-44-09-354
+[notice ] deleting /home/jonathan/recordings/1479224379.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224419.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-15-44-29-447
+[notice ] deleting /home/jonathan/recordings/1479224399.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224439.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-15-44-49-543
+[notice ] deleting /home/jonathan/recordings/1479224419.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224459.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-15-45-09-639
+[notice ] deleting /home/jonathan/recordings/1479224439.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224479.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-15-45-29-723
+[notice ] deleting /home/jonathan/recordings/1479224459.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224499.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-15-45-49-814
+[notice ] deleting /home/jonathan/recordings/1479224479.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224519.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-15-46-09-919
+[notice ] deleting /home/jonathan/recordings/1479224499.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224539.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-15-46-30-024
+[notice ] deleting /home/jonathan/recordings/1479224519.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224559.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-15-46-50-134
+[notice ] deleting /home/jonathan/recordings/1479224539.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224579.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-15-47-10-226
+[notice ] deleting /home/jonathan/recordings/1479224559.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224599.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-15-47-30-316
+[notice ] deleting /home/jonathan/recordings/1479224579.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224619.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-15-47-50-411
+[notice ] deleting /home/jonathan/recordings/1479224599.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224639.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-15-48-10-514
+[notice ] deleting /home/jonathan/recordings/1479224619.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224659.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-15-48-30-615
+[notice ] deleting /home/jonathan/recordings/1479224639.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224679.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-15-48-50-710
+[notice ] deleting /home/jonathan/recordings/1479224659.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224699.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-15-49-10-813
+[notice ] deleting /home/jonathan/recordings/1479224679.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224719.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-15-49-30-914
+[notice ] deleting /home/jonathan/recordings/1479224699.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224739.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-15-49-51-015
+[notice ] deleting /home/jonathan/recordings/1479224719.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224759.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-15-50-11-118
+[notice ] deleting /home/jonathan/recordings/1479224739.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224779.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-15-50-31-207
+[notice ] deleting /home/jonathan/recordings/1479224759.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224799.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-15-50-51-292
+[notice ] deleting /home/jonathan/recordings/1479224779.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224819.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-15-51-11-385
+[notice ] deleting /home/jonathan/recordings/1479224799.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224839.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-15-51-31-467
+[notice ] deleting /home/jonathan/recordings/1479224819.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224859.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-15-51-51-560
+[notice ] deleting /home/jonathan/recordings/1479224839.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224879.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-15-52-11-668
+[notice ] deleting /home/jonathan/recordings/1479224859.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224899.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-15-52-31-762
+[notice ] deleting /home/jonathan/recordings/1479224879.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224919.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-15-52-51-851
+[notice ] deleting /home/jonathan/recordings/1479224899.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224939.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-15-53-11-954
+[notice ] deleting /home/jonathan/recordings/1479224919.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224959.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-15-53-32-036
+[notice ] deleting /home/jonathan/recordings/1479224939.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224979.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-15-53-52-118
+[notice ] deleting /home/jonathan/recordings/1479224959.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479224999.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-15-54-12-196
+[notice ] deleting /home/jonathan/recordings/1479224979.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225019.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-15-54-32-292
+[notice ] deleting /home/jonathan/recordings/1479224999.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225039.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-15-54-52-406
+[notice ] deleting /home/jonathan/recordings/1479225019.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225059.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-15-55-12-520
+[notice ] deleting /home/jonathan/recordings/1479225039.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225079.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-15-55-32-626
+[notice ] deleting /home/jonathan/recordings/1479225059.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225099.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-15-55-52-725
+[notice ] deleting /home/jonathan/recordings/1479225079.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225119.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-15-56-12-823
+[notice ] deleting /home/jonathan/recordings/1479225099.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225139.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-15-56-32-930
+[notice ] deleting /home/jonathan/recordings/1479225119.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225159.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-15-56-53-030
+[notice ] deleting /home/jonathan/recordings/1479225139.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225179.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-15-57-13-122
+[notice ] deleting /home/jonathan/recordings/1479225159.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225199.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-15-57-33-224
+[notice ] deleting /home/jonathan/recordings/1479225179.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225219.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-15-57-53-327
+[notice ] deleting /home/jonathan/recordings/1479225199.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225239.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-15-58-13-425
+[notice ] deleting /home/jonathan/recordings/1479225219.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225259.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-15-58-33-520
+[notice ] deleting /home/jonathan/recordings/1479225239.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225279.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-15-58-53-620
+[notice ] deleting /home/jonathan/recordings/1479225259.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225299.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-15-59-13-713
+[notice ] deleting /home/jonathan/recordings/1479225279.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225319.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-15-59-33-809
+[notice ] deleting /home/jonathan/recordings/1479225299.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225339.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-15-59-53-899
+[notice ] deleting /home/jonathan/recordings/1479225319.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225359.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-16-00-13-977
+[notice ] deleting /home/jonathan/recordings/1479225339.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225379.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-16-00-34-060
+[notice ] deleting /home/jonathan/recordings/1479225359.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225399.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-16-00-54-154
+[notice ] deleting /home/jonathan/recordings/1479225379.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225419.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-16-01-14-250
+[notice ] deleting /home/jonathan/recordings/1479225399.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225439.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-16-01-34-361
+[notice ] deleting /home/jonathan/recordings/1479225419.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225459.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-16-01-54-441
+[notice ] deleting /home/jonathan/recordings/1479225439.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225479.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-16-02-14-536
+[notice ] deleting /home/jonathan/recordings/1479225459.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225499.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-16-02-34-632
+[notice ] deleting /home/jonathan/recordings/1479225479.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225519.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-16-02-54-721
+[notice ] deleting /home/jonathan/recordings/1479225499.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225539.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-16-03-14-817
+[notice ] deleting /home/jonathan/recordings/1479225519.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225559.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-16-03-34-923
+[notice ] deleting /home/jonathan/recordings/1479225539.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225579.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-16-03-55-022
+[notice ] deleting /home/jonathan/recordings/1479225559.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225599.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-16-04-15-120
+[notice ] deleting /home/jonathan/recordings/1479225579.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225619.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-16-04-35-213
+[notice ] deleting /home/jonathan/recordings/1479225599.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225639.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-16-04-55-309
+[notice ] deleting /home/jonathan/recordings/1479225619.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225659.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-16-05-15-414
+[notice ] deleting /home/jonathan/recordings/1479225639.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225679.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-16-05-35-519
+[notice ] deleting /home/jonathan/recordings/1479225659.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225699.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-16-05-55-624
+[notice ] deleting /home/jonathan/recordings/1479225679.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225719.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-16-06-15-724
+[notice ] deleting /home/jonathan/recordings/1479225699.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225739.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-16-06-35-818
+[notice ] deleting /home/jonathan/recordings/1479225719.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225759.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-16-06-55-912
+[notice ] deleting /home/jonathan/recordings/1479225739.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225779.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-16-07-16-019
+[notice ] deleting /home/jonathan/recordings/1479225759.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225799.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-16-07-36-115
+[notice ] deleting /home/jonathan/recordings/1479225779.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225819.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-16-07-56-213
+[notice ] deleting /home/jonathan/recordings/1479225799.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225839.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-16-08-16-298
+[notice ] deleting /home/jonathan/recordings/1479225819.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225859.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-16-08-36-395
+[notice ] deleting /home/jonathan/recordings/1479225839.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225879.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-16-08-56-499
+[notice ] deleting /home/jonathan/recordings/1479225859.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225899.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-16-09-16-592
+[notice ] deleting /home/jonathan/recordings/1479225879.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225919.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-16-09-36-693
+[notice ] deleting /home/jonathan/recordings/1479225899.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225939.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-16-09-56-782
+[notice ] deleting /home/jonathan/recordings/1479225919.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225959.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-16-10-16-875
+[notice ] deleting /home/jonathan/recordings/1479225939.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225979.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-16-10-36-964
+[notice ] deleting /home/jonathan/recordings/1479225959.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479225999.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-15-16-10-57-061
+[notice ] deleting /home/jonathan/recordings/1479225979.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226019.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-16-11-17-140
+[notice ] deleting /home/jonathan/recordings/1479225999.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226039.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-16-11-37-246
+[notice ] deleting /home/jonathan/recordings/1479226019.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226059.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-16-11-57-339
+[notice ] deleting /home/jonathan/recordings/1479226039.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226079.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-16-12-17-437
+[notice ] deleting /home/jonathan/recordings/1479226059.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226099.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-16-12-37-541
+[notice ] deleting /home/jonathan/recordings/1479226079.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226119.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-16-12-57-627
+[notice ] deleting /home/jonathan/recordings/1479226099.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226139.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-16-13-17-734
+[notice ] deleting /home/jonathan/recordings/1479226119.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226159.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-16-13-37-821
+[notice ] deleting /home/jonathan/recordings/1479226139.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226179.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-16-13-57-906
+[notice ] deleting /home/jonathan/recordings/1479226159.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226199.mkv
+
+[notice ] time offset : 18
+
+[notice ] 2016-11-15-16-14-18-001
+[notice ] deleting /home/jonathan/recordings/1479226179.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226219.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-16-14-38-091
+[notice ] deleting /home/jonathan/recordings/1479226199.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226239.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-16-14-58-194
+[notice ] deleting /home/jonathan/recordings/1479226219.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226259.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-16-15-18-270
+[notice ] deleting /home/jonathan/recordings/1479226239.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226282.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-16-15-41-311
+[notice ] deleting /home/jonathan/recordings/1479226259.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226302.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-16-16-01-417
+[notice ] deleting /home/jonathan/recordings/1479226282.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226322.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-16-16-21-510
+[notice ] deleting /home/jonathan/recordings/1479226302.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226342.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-16-16-41-612
+[notice ] deleting /home/jonathan/recordings/1479226322.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226362.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-16-17-01-692
+[notice ] deleting /home/jonathan/recordings/1479226342.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226382.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-16-17-21-791
+[notice ] deleting /home/jonathan/recordings/1479226362.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226402.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-16-17-41-888
+[notice ] deleting /home/jonathan/recordings/1479226382.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226422.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-15-16-18-01-973
+[notice ] deleting /home/jonathan/recordings/1479226402.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226442.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-16-18-22-084
+[notice ] deleting /home/jonathan/recordings/1479226422.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226462.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-16-18-42-183
+[notice ] deleting /home/jonathan/recordings/1479226442.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226482.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-16-19-02-279
+[notice ] deleting /home/jonathan/recordings/1479226462.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226502.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-16-19-22-376
+[notice ] deleting /home/jonathan/recordings/1479226482.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226522.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-16-19-42-476
+[notice ] deleting /home/jonathan/recordings/1479226502.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226542.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-16-20-02-571
+[notice ] deleting /home/jonathan/recordings/1479226522.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226562.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-16-20-22-662
+[notice ] deleting /home/jonathan/recordings/1479226542.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226582.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-16-20-42-753
+[notice ] deleting /home/jonathan/recordings/1479226562.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226602.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-16-21-02-859
+[notice ] deleting /home/jonathan/recordings/1479226582.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226622.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-16-21-22-956
+[notice ] deleting /home/jonathan/recordings/1479226602.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226642.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-15-16-21-43-042
+[notice ] deleting /home/jonathan/recordings/1479226622.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226682.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-16-22-03-142
+[notice ] deleting /home/jonathan/recordings/1479226642.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226702.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-16-22-23-242
+[notice ] deleting /home/jonathan/recordings/1479226682.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226722.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-16-22-43-338
+[notice ] deleting /home/jonathan/recordings/1479226702.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226742.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-16-23-03-455
+[notice ] deleting /home/jonathan/recordings/1479226722.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226762.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-16-23-23-537
+[notice ] deleting /home/jonathan/recordings/1479226742.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226782.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-15-16-23-43-616
+[notice ] deleting /home/jonathan/recordings/1479226762.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226782.mkv
+
+[notice ] time offset : 24
+
+[notice ] 2016-11-15-16-24-06-822
+[notice ] deleting /home/jonathan/recordings/1479226782.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226826.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-16-24-30-014
+[notice ] deleting /home/jonathan/recordings/1479226782.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226846.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-24-50-106
+[notice ] deleting /home/jonathan/recordings/1479226826.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226866.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-25-10-204
+[notice ] deleting /home/jonathan/recordings/1479226846.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226886.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-25-30-307
+[notice ] deleting /home/jonathan/recordings/1479226866.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226906.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-25-50-397
+[notice ] deleting /home/jonathan/recordings/1479226886.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226931.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-16-26-14-790
+[notice ] deleting /home/jonathan/recordings/1479226906.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226943.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-26-27-397
+[notice ] deleting /home/jonathan/recordings/1479226931.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226966.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-16-26-49-926
+[notice ] deleting /home/jonathan/recordings/1479226943.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479226986.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-16-27-10-009
+[notice ] deleting /home/jonathan/recordings/1479226966.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227006.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-27-30-111
+[notice ] deleting /home/jonathan/recordings/1479226986.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227026.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-27-50-195
+[notice ] deleting /home/jonathan/recordings/1479227006.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227046.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-28-10-289
+[notice ] deleting /home/jonathan/recordings/1479227026.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227066.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-28-30-381
+[notice ] deleting /home/jonathan/recordings/1479227046.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227086.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-28-50-485
+[notice ] deleting /home/jonathan/recordings/1479227066.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227106.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-29-10-591
+[notice ] deleting /home/jonathan/recordings/1479227086.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227126.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-29-30-679
+[notice ] deleting /home/jonathan/recordings/1479227106.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227146.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-29-50-767
+[notice ] deleting /home/jonathan/recordings/1479227126.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227166.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-30-10-871
+[notice ] deleting /home/jonathan/recordings/1479227146.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227186.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-30-30-972
+[notice ] deleting /home/jonathan/recordings/1479227166.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227206.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-16-30-51-063
+[notice ] deleting /home/jonathan/recordings/1479227186.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227226.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-16-31-11-160
+[notice ] deleting /home/jonathan/recordings/1479227206.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227250.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-16-31-35-136
+[notice ] deleting /home/jonathan/recordings/1479227226.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227262.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-16-31-47-746
+[notice ] deleting /home/jonathan/recordings/1479227250.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227284.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-16-32-09-870
+[notice ] deleting /home/jonathan/recordings/1479227262.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227304.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-16-32-29-992
+[notice ] deleting /home/jonathan/recordings/1479227284.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227324.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-16-32-50-098
+[notice ] deleting /home/jonathan/recordings/1479227304.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227344.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-16-33-10-183
+[notice ] deleting /home/jonathan/recordings/1479227324.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227364.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-16-33-30-259
+[notice ] deleting /home/jonathan/recordings/1479227344.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227384.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-16-33-50-361
+[notice ] deleting /home/jonathan/recordings/1479227364.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227404.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-16-34-10-459
+[notice ] deleting /home/jonathan/recordings/1479227384.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227424.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-16-34-30-550
+[notice ] deleting /home/jonathan/recordings/1479227404.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227444.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-16-34-50-659
+[notice ] deleting /home/jonathan/recordings/1479227424.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227464.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-16-35-10-767
+[notice ] deleting /home/jonathan/recordings/1479227444.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227484.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-16-35-30-867
+[notice ] deleting /home/jonathan/recordings/1479227464.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227504.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-16-35-50-954
+[notice ] deleting /home/jonathan/recordings/1479227484.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227524.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-16-36-11-043
+[notice ] deleting /home/jonathan/recordings/1479227504.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227544.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-16-36-31-154
+[notice ] deleting /home/jonathan/recordings/1479227524.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227564.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-16-36-51-233
+[notice ] deleting /home/jonathan/recordings/1479227544.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227584.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-16-37-11-334
+[notice ] deleting /home/jonathan/recordings/1479227564.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227604.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-16-37-31-415
+[notice ] deleting /home/jonathan/recordings/1479227584.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227624.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-16-37-51-493
+[notice ] deleting /home/jonathan/recordings/1479227604.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227644.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-16-38-11-572
+[notice ] deleting /home/jonathan/recordings/1479227624.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227664.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-16-38-31-653
+[notice ] deleting /home/jonathan/recordings/1479227644.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227684.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-16-38-51-758
+[notice ] deleting /home/jonathan/recordings/1479227664.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227704.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-16-39-11-838
+[notice ] deleting /home/jonathan/recordings/1479227684.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227724.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-16-39-31-933
+[notice ] deleting /home/jonathan/recordings/1479227704.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227744.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-16-39-52-042
+[notice ] deleting /home/jonathan/recordings/1479227724.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227764.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-16-40-12-146
+[notice ] deleting /home/jonathan/recordings/1479227744.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227784.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-16-40-32-247
+[notice ] deleting /home/jonathan/recordings/1479227764.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227804.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-16-40-52-346
+[notice ] deleting /home/jonathan/recordings/1479227784.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227824.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-16-41-12-447
+[notice ] deleting /home/jonathan/recordings/1479227804.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227844.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-16-41-32-554
+[notice ] deleting /home/jonathan/recordings/1479227824.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227864.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-16-41-52-667
+[notice ] deleting /home/jonathan/recordings/1479227844.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227884.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-16-42-12-770
+[notice ] deleting /home/jonathan/recordings/1479227864.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227904.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-16-42-32-882
+[notice ] deleting /home/jonathan/recordings/1479227884.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227924.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-16-42-52-963
+[notice ] deleting /home/jonathan/recordings/1479227904.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227944.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-16-43-13-080
+[notice ] deleting /home/jonathan/recordings/1479227924.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227964.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-16-43-33-159
+[notice ] deleting /home/jonathan/recordings/1479227944.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479227984.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-16-43-53-250
+[notice ] deleting /home/jonathan/recordings/1479227964.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228004.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-16-44-13-358
+[notice ] deleting /home/jonathan/recordings/1479227984.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228025.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-16-44-33-884
+[notice ] deleting /home/jonathan/recordings/1479228004.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228045.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-16-44-53-983
+[notice ] deleting /home/jonathan/recordings/1479228025.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228065.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-16-45-14-069
+[notice ] deleting /home/jonathan/recordings/1479228045.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228085.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-16-45-34-155
+[notice ] deleting /home/jonathan/recordings/1479228065.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228105.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-16-45-54-241
+[notice ] deleting /home/jonathan/recordings/1479228085.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228125.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-16-46-14-339
+[notice ] deleting /home/jonathan/recordings/1479228105.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228145.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-16-46-34-442
+[notice ] deleting /home/jonathan/recordings/1479228125.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228165.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-16-46-54-539
+[notice ] deleting /home/jonathan/recordings/1479228145.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228185.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-16-47-14-646
+[notice ] deleting /home/jonathan/recordings/1479228165.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228205.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-16-47-34-731
+[notice ] deleting /home/jonathan/recordings/1479228185.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228225.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-16-47-54-826
+[notice ] deleting /home/jonathan/recordings/1479228205.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228245.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-16-48-14-935
+[notice ] deleting /home/jonathan/recordings/1479228225.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228265.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-16-48-35-299
+[notice ] deleting /home/jonathan/recordings/1479228245.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228285.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-16-48-55-389
+[notice ] deleting /home/jonathan/recordings/1479228265.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228306.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-16-49-16-998
+[notice ] deleting /home/jonathan/recordings/1479228285.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228331.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-16-49-42-102
+[notice ] deleting /home/jonathan/recordings/1479228306.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228344.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-16-49-54-689
+[notice ] deleting /home/jonathan/recordings/1479228331.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228369.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-16-50-19-777
+[notice ] deleting /home/jonathan/recordings/1479228344.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228381.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-16-50-32-372
+[notice ] deleting /home/jonathan/recordings/1479228369.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228406.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-16-50-57-467
+[notice ] deleting /home/jonathan/recordings/1479228381.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228430.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-16-51-20-764
+[notice ] deleting /home/jonathan/recordings/1479228406.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228442.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-16-51-33-373
+[notice ] deleting /home/jonathan/recordings/1479228430.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228464.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-16-51-55-332
+[notice ] deleting /home/jonathan/recordings/1479228442.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228484.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-16-52-15-431
+[notice ] deleting /home/jonathan/recordings/1479228464.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228504.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-16-52-35-534
+[notice ] deleting /home/jonathan/recordings/1479228484.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228524.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-16-52-55-644
+[notice ] deleting /home/jonathan/recordings/1479228504.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228544.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-16-53-15-760
+[notice ] deleting /home/jonathan/recordings/1479228524.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228564.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-16-53-35-865
+[notice ] deleting /home/jonathan/recordings/1479228544.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228584.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-16-53-55-957
+[notice ] deleting /home/jonathan/recordings/1479228564.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228604.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-16-54-16-065
+[notice ] deleting /home/jonathan/recordings/1479228584.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228624.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-16-54-36-166
+[notice ] deleting /home/jonathan/recordings/1479228604.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228644.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-16-54-56-272
+[notice ] deleting /home/jonathan/recordings/1479228624.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228664.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-16-55-16-379
+[notice ] deleting /home/jonathan/recordings/1479228644.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228684.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-16-55-36-474
+[notice ] deleting /home/jonathan/recordings/1479228664.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228704.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-16-55-56-580
+[notice ] deleting /home/jonathan/recordings/1479228684.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228724.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-16-56-16-693
+[notice ] deleting /home/jonathan/recordings/1479228704.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228745.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-16-56-38-146
+[notice ] deleting /home/jonathan/recordings/1479228724.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228765.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-16-56-58-244
+[notice ] deleting /home/jonathan/recordings/1479228745.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228785.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-16-57-18-362
+[notice ] deleting /home/jonathan/recordings/1479228765.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228805.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-16-57-38-468
+[notice ] deleting /home/jonathan/recordings/1479228785.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228825.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-16-57-58-589
+[notice ] deleting /home/jonathan/recordings/1479228805.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228845.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-16-58-18-695
+[notice ] deleting /home/jonathan/recordings/1479228825.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228865.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-16-58-38-780
+[notice ] deleting /home/jonathan/recordings/1479228845.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228885.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-16-58-58-880
+[notice ] deleting /home/jonathan/recordings/1479228865.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228905.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-16-59-18-978
+[notice ] deleting /home/jonathan/recordings/1479228885.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228925.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-16-59-39-070
+[notice ] deleting /home/jonathan/recordings/1479228905.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228945.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-16-59-59-187
+[notice ] deleting /home/jonathan/recordings/1479228925.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228965.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-00-19-296
+[notice ] deleting /home/jonathan/recordings/1479228945.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479228985.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-00-39-377
+[notice ] deleting /home/jonathan/recordings/1479228965.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229005.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-00-59-471
+[notice ] deleting /home/jonathan/recordings/1479228985.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229025.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-01-19-595
+[notice ] deleting /home/jonathan/recordings/1479229005.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229045.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-01-39-694
+[notice ] deleting /home/jonathan/recordings/1479229025.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229065.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-01-59-802
+[notice ] deleting /home/jonathan/recordings/1479229045.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229085.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-02-19-918
+[notice ] deleting /home/jonathan/recordings/1479229065.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229105.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-02-39-999
+[notice ] deleting /home/jonathan/recordings/1479229085.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229125.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-17-03-00-115
+[notice ] deleting /home/jonathan/recordings/1479229105.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229147.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-03-21-563
+[notice ] deleting /home/jonathan/recordings/1479229125.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229167.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-03-41-669
+[notice ] deleting /home/jonathan/recordings/1479229147.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229187.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-04-01-779
+[notice ] deleting /home/jonathan/recordings/1479229167.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229207.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-04-21-870
+[notice ] deleting /home/jonathan/recordings/1479229187.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229227.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-04-41-972
+[notice ] deleting /home/jonathan/recordings/1479229207.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229247.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-05-02-047
+[notice ] deleting /home/jonathan/recordings/1479229227.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229267.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-17-05-22-167
+[notice ] deleting /home/jonathan/recordings/1479229247.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229287.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-17-05-42-275
+[notice ] deleting /home/jonathan/recordings/1479229267.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229307.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-17-06-02-374
+[notice ] deleting /home/jonathan/recordings/1479229287.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229327.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-17-06-22-463
+[notice ] deleting /home/jonathan/recordings/1479229307.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229347.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-17-06-42-570
+[notice ] deleting /home/jonathan/recordings/1479229327.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229367.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-17-07-02-669
+[notice ] deleting /home/jonathan/recordings/1479229347.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229387.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-17-07-22-771
+[notice ] deleting /home/jonathan/recordings/1479229367.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229407.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-17-07-42-873
+[notice ] deleting /home/jonathan/recordings/1479229387.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229427.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-17-08-02-980
+[notice ] deleting /home/jonathan/recordings/1479229407.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229447.mkv
+
+[notice ] time offset : 15
+
+[notice ] 2016-11-15-17-08-23-071
+[notice ] deleting /home/jonathan/recordings/1479229427.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229467.mkv
+
+[notice ] time offset : 16
+
+[notice ] 2016-11-15-17-08-43-455
+[notice ] deleting /home/jonathan/recordings/1479229447.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229505.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-17-09-10-666
+[notice ] deleting /home/jonathan/recordings/1479229467.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229538.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-17-09-43-452
+[notice ] deleting /home/jonathan/recordings/1479229505.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229558.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-17-10-03-513
+[notice ] deleting /home/jonathan/recordings/1479229538.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229575.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-17-10-20-499
+[notice ] deleting /home/jonathan/recordings/1479229558.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229587.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-17-10-33-071
+[notice ] deleting /home/jonathan/recordings/1479229575.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229600.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-17-10-45-660
+[notice ] deleting /home/jonathan/recordings/1479229587.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229636.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-17-11-21-308
+[notice ] deleting /home/jonathan/recordings/1479229600.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229655.mkv
+
+[notice ] time offset : 5
+
+[notice ] 2016-11-15-17-11-40-692
+[notice ] deleting /home/jonathan/recordings/1479229636.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229667.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-17-11-53-323
+[notice ] deleting /home/jonathan/recordings/1479229655.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229687.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-17-12-13-418
+[notice ] deleting /home/jonathan/recordings/1479229667.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229707.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-17-12-33-520
+[notice ] deleting /home/jonathan/recordings/1479229687.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229727.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-17-12-53-616
+[notice ] deleting /home/jonathan/recordings/1479229707.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229747.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-17-13-13-687
+[notice ] deleting /home/jonathan/recordings/1479229727.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229767.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-17-13-33-772
+[notice ] deleting /home/jonathan/recordings/1479229747.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229787.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-17-13-53-867
+[notice ] deleting /home/jonathan/recordings/1479229767.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229807.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-17-14-13-935
+[notice ] deleting /home/jonathan/recordings/1479229787.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229827.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-17-14-34-022
+[notice ] deleting /home/jonathan/recordings/1479229807.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229853.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-17-14-59-460
+[notice ] deleting /home/jonathan/recordings/1479229827.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229866.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-17-15-12-957
+[notice ] deleting /home/jonathan/recordings/1479229853.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229887.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-17-15-33-639
+[notice ] deleting /home/jonathan/recordings/1479229866.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229912.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-17-15-58-719
+[notice ] deleting /home/jonathan/recordings/1479229887.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229924.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-17-16-11-330
+[notice ] deleting /home/jonathan/recordings/1479229912.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229949.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-17-16-36-407
+[notice ] deleting /home/jonathan/recordings/1479229924.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229962.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-17-16-48-974
+[notice ] deleting /home/jonathan/recordings/1479229949.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479229987.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-15-17-17-14-062
+[notice ] deleting /home/jonathan/recordings/1479229962.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230008.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-17-17-35-968
+[notice ] deleting /home/jonathan/recordings/1479229987.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230028.mkv
+
+[notice ] time offset : 7
+
+[notice ] 2016-11-15-17-17-56-050
+[notice ] deleting /home/jonathan/recordings/1479230008.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230048.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-17-18-16-146
+[notice ] deleting /home/jonathan/recordings/1479230028.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230068.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-17-18-36-250
+[notice ] deleting /home/jonathan/recordings/1479230048.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230088.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-17-18-56-356
+[notice ] deleting /home/jonathan/recordings/1479230068.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230108.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-17-19-16-462
+[notice ] deleting /home/jonathan/recordings/1479230088.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230128.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-17-19-36-536
+[notice ] deleting /home/jonathan/recordings/1479230108.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230148.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-17-19-56-616
+[notice ] deleting /home/jonathan/recordings/1479230128.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230168.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-17-20-16-713
+[notice ] deleting /home/jonathan/recordings/1479230148.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230188.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-17-20-36-810
+[notice ] deleting /home/jonathan/recordings/1479230168.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230208.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-17-20-56-885
+[notice ] deleting /home/jonathan/recordings/1479230188.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230228.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-17-21-16-978
+[notice ] deleting /home/jonathan/recordings/1479230208.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230248.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-15-17-21-37-059
+[notice ] deleting /home/jonathan/recordings/1479230228.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230268.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-17-21-57-152
+[notice ] deleting /home/jonathan/recordings/1479230248.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230288.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-17-22-17-244
+[notice ] deleting /home/jonathan/recordings/1479230268.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230308.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-17-22-37-340
+[notice ] deleting /home/jonathan/recordings/1479230288.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230328.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-17-22-57-434
+[notice ] deleting /home/jonathan/recordings/1479230308.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230348.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-17-23-17-534
+[notice ] deleting /home/jonathan/recordings/1479230328.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230368.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-17-23-37-633
+[notice ] deleting /home/jonathan/recordings/1479230348.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230388.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-17-23-57-735
+[notice ] deleting /home/jonathan/recordings/1479230368.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230408.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-17-24-17-832
+[notice ] deleting /home/jonathan/recordings/1479230388.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230428.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-17-24-37-929
+[notice ] deleting /home/jonathan/recordings/1479230408.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230448.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-17-24-58-011
+[notice ] deleting /home/jonathan/recordings/1479230428.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230468.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-17-25-18-122
+[notice ] deleting /home/jonathan/recordings/1479230448.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230488.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-17-25-38-215
+[notice ] deleting /home/jonathan/recordings/1479230468.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230508.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-17-25-58-310
+[notice ] deleting /home/jonathan/recordings/1479230488.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230530.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-17-26-20-077
+[notice ] deleting /home/jonathan/recordings/1479230508.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230543.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-17-26-33-436
+[notice ] deleting /home/jonathan/recordings/1479230530.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230566.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-17-26-55-751
+[notice ] deleting /home/jonathan/recordings/1479230543.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230586.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-17-27-15-858
+[notice ] deleting /home/jonathan/recordings/1479230566.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230606.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-17-27-35-946
+[notice ] deleting /home/jonathan/recordings/1479230586.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230626.mkv
+
+[notice ] time offset : 9
+
+[notice ] 2016-11-15-17-27-56-050
+[notice ] deleting /home/jonathan/recordings/1479230606.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230646.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-17-28-16-142
+[notice ] deleting /home/jonathan/recordings/1479230626.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230666.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-17-28-36-251
+[notice ] deleting /home/jonathan/recordings/1479230646.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230687.mkv
+
+[notice ] time offset : 10
+
+[notice ] 2016-11-15-17-28-57-348
+[notice ] deleting /home/jonathan/recordings/1479230666.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230707.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-29-18-125
+[notice ] deleting /home/jonathan/recordings/1479230687.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230727.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-29-38-212
+[notice ] deleting /home/jonathan/recordings/1479230707.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230747.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-29-58-298
+[notice ] deleting /home/jonathan/recordings/1479230727.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230767.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-30-18-392
+[notice ] deleting /home/jonathan/recordings/1479230747.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230787.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-30-38-483
+[notice ] deleting /home/jonathan/recordings/1479230767.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230807.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-30-58-578
+[notice ] deleting /home/jonathan/recordings/1479230787.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230827.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-31-18-678
+[notice ] deleting /home/jonathan/recordings/1479230807.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230847.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-31-38-760
+[notice ] deleting /home/jonathan/recordings/1479230827.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230867.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-31-58-863
+[notice ] deleting /home/jonathan/recordings/1479230847.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230887.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-32-18-972
+[notice ] deleting /home/jonathan/recordings/1479230867.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230907.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-32-39-058
+[notice ] deleting /home/jonathan/recordings/1479230887.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230930.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-33-01-589
+[notice ] deleting /home/jonathan/recordings/1479230907.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230942.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-17-33-14-169
+[notice ] deleting /home/jonathan/recordings/1479230930.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230967.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-17-33-39-269
+[notice ] deleting /home/jonathan/recordings/1479230942.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479230980.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-33-51-855
+[notice ] deleting /home/jonathan/recordings/1479230967.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231005.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-34-16-943
+[notice ] deleting /home/jonathan/recordings/1479230980.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231026.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-34-37-763
+[notice ] deleting /home/jonathan/recordings/1479231005.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231046.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-34-57-855
+[notice ] deleting /home/jonathan/recordings/1479231026.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231066.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-35-17-960
+[notice ] deleting /home/jonathan/recordings/1479231046.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231086.mkv
+
+[notice ] time offset : 11
+
+[notice ] 2016-11-15-17-35-38-063
+[notice ] deleting /home/jonathan/recordings/1479231066.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231106.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-17-35-58-158
+[notice ] deleting /home/jonathan/recordings/1479231086.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231126.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-17-36-18-266
+[notice ] deleting /home/jonathan/recordings/1479231106.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231146.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-17-36-38-365
+[notice ] deleting /home/jonathan/recordings/1479231126.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231166.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-17-36-58-441
+[notice ] deleting /home/jonathan/recordings/1479231146.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231186.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-17-37-18-536
+[notice ] deleting /home/jonathan/recordings/1479231166.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231206.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-17-37-38-618
+[notice ] deleting /home/jonathan/recordings/1479231186.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231226.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-17-37-58-686
+[notice ] deleting /home/jonathan/recordings/1479231206.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231246.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-17-38-18-782
+[notice ] deleting /home/jonathan/recordings/1479231226.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231266.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-17-38-38-872
+[notice ] deleting /home/jonathan/recordings/1479231246.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231286.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-17-38-58-951
+[notice ] deleting /home/jonathan/recordings/1479231266.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231306.mkv
+
+[notice ] time offset : 12
+
+[notice ] 2016-11-15-17-39-19-041
+[notice ] deleting /home/jonathan/recordings/1479231286.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231326.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-17-39-39-132
+[notice ] deleting /home/jonathan/recordings/1479231306.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231346.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-17-39-59-215
+[notice ] deleting /home/jonathan/recordings/1479231326.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231366.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-17-40-19-781
+[notice ] deleting /home/jonathan/recordings/1479231346.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231386.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-17-40-39-873
+[notice ] deleting /home/jonathan/recordings/1479231366.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231406.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-17-40-59-981
+[notice ] deleting /home/jonathan/recordings/1479231386.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231427.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-17-41-20-812
+[notice ] deleting /home/jonathan/recordings/1479231406.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231448.mkv
+
+[notice ] time offset : 13
+
+[notice ] 2016-11-15-17-41-42-062
+[notice ] deleting /home/jonathan/recordings/1479231427.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231468.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-42-02-154
+[notice ] deleting /home/jonathan/recordings/1479231448.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231488.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-42-22-260
+[notice ] deleting /home/jonathan/recordings/1479231468.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231508.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-42-42-356
+[notice ] deleting /home/jonathan/recordings/1479231488.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231528.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-43-02-456
+[notice ] deleting /home/jonathan/recordings/1479231508.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231548.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-43-22-558
+[notice ] deleting /home/jonathan/recordings/1479231528.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231568.mkv
+
+[notice ] time offset : 14
+
+[notice ] 2016-11-15-17-43-42-640
+[notice ] deleting /home/jonathan/recordings/1479231548.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231600.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-17-44-03-831
+[notice ] deleting /home/jonathan/recordings/1479231568.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231625.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-15-17-44-28-912
+[notice ] deleting /home/jonathan/recordings/1479231600.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231646.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-17-44-50-649
+[notice ] deleting /home/jonathan/recordings/1479231625.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231666.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-17-45-10-732
+[notice ] deleting /home/jonathan/recordings/1479231646.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479231687.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-15-17-45-31-271
+[notice ] deleting /home/jonathan/recordings/1479231666.mkv
+
+
+
+--------------------------------------- 2016-11-16-16-14-23-312
+[notice ] playing : /home/jonathan/recordings/1479269644.mkv
+
+[notice ] time offset : 19
+
+[notice ] 2016-11-16-16-14-24-716
+[notice ] deleting 
+
+[notice ] playing : /home/jonathan/recordings/1479269664.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-16-16-14-44-858
+[notice ] deleting /home/jonathan/recordings/1479269644.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479269684.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-16-16-15-04-930
+[notice ] deleting /home/jonathan/recordings/1479269664.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479269704.mkv
+
+[notice ] time offset : 20
+
+[notice ] 2016-11-16-16-15-25-007
+[notice ] deleting /home/jonathan/recordings/1479269684.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479269744.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-16-16-15-45-107
+[notice ] deleting /home/jonathan/recordings/1479269704.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479269764.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-16-16-16-05-190
+[notice ] deleting /home/jonathan/recordings/1479269744.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479269784.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-16-16-16-25-275
+[notice ] deleting /home/jonathan/recordings/1479269764.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479269804.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-16-16-16-45-352
+[notice ] deleting /home/jonathan/recordings/1479269784.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479269824.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-16-16-17-05-463
+[notice ] deleting /home/jonathan/recordings/1479269804.mkv
+
+
+
+--------------------------------------- 2016-11-16-16-18-20-970
+[notice ] playing : /home/jonathan/recordings/1479269884.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-16-16-18-21-242
+[notice ] deleting 
+
+[notice ] playing : /home/jonathan/recordings/1479269904.mkv
+
+[notice ] time offset : 17
+
+[notice ] 2016-11-16-16-18-41-368
+[notice ] deleting /home/jonathan/recordings/1479269884.mkv
+
+
+
+--------------------------------------- 2016-11-16-16-19-49-962
+[notice ] playing : /home/jonathan/recordings/1479269984.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-16-16-19-50-244
+[notice ] deleting 
+
+[notice ] playing : /home/jonathan/recordings/1479270004.mkv
+
+[notice ] time offset : 6
+
+[notice ] 2016-11-16-16-20-10-333
+[notice ] deleting /home/jonathan/recordings/1479269984.mkv
+
+
+
+--------------------------------------- 2016-11-16-16-21-28-473
+[notice ] playing : /home/jonathan/recordings/1479270084.mkv
+
+[notice ] time offset : 4
+
+[notice ] 2016-11-16-16-21-28-740
+[notice ] deleting 
+
+
+
+--------------------------------------- 2016-11-16-16-22-45-293
+[notice ] playing : /home/jonathan/recordings/1479270164.mkv
+
+[notice ] time offset : 1
+
+[notice ] 2016-11-16-16-22-45-570
+[notice ] deleting 
+
+
+
+--------------------------------------- 2016-11-16-16-23-27-378
+[notice ] playing : /home/jonathan/recordings/1479270204.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-16-16-23-27-659
+[notice ] deleting 
+
+[notice ] playing : /home/jonathan/recordings/1479270224.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-16-16-23-47-772
+[notice ] deleting /home/jonathan/recordings/1479270204.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479270244.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-16-16-24-07-886
+[notice ] deleting /home/jonathan/recordings/1479270224.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479270264.mkv
+
+[notice ] time offset : 3
+
+[notice ] 2016-11-16-16-24-28-035
+[notice ] deleting /home/jonathan/recordings/1479270244.mkv
+
+
+
+--------------------------------------- 2016-11-16-16-24-52-194
+[notice ] playing : /home/jonathan/recordings/1479270284.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-16-16-24-52-462
+[notice ] deleting 
+
+[notice ] playing : /home/jonathan/recordings/1479270304.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-16-16-25-12-582
+[notice ] deleting /home/jonathan/recordings/1479270284.mkv
+
+[notice ] playing : /home/jonathan/recordings/1479270324.mkv
+
+[notice ] time offset : 8
+
+[notice ] 2016-11-16-16-25-32-687
+[notice ] deleting /home/jonathan/recordings/1479270304.mkv
+
